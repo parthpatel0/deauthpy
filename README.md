@@ -1,4 +1,16 @@
-# std11linux
+# deauthpy
+please read this carefully
 
 
-this is a simple python script for all basic linux commands taught in std 11
+1)make sure that you are using the correct network adopter
+2)make sure you have aircrack installed (preinstalled in linux kali)
+3)execute the .py file using python3
+
+to run the script
+
+python3 de.py
+
+
+
+
+
