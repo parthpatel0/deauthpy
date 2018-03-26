@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import os 
 
 print('welcome to program by parth ')
