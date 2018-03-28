@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 import os 
-
-print('welcome to program by parth ')
+os.system("clear")
+print('\nwelcome to program by parth ')
 print('---------------------------------------------------------------------')
 q = input('press anything to continue')
 print(q)
